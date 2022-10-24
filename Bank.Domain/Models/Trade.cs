@@ -27,7 +27,6 @@ namespace Bank.Domain
             var trade = new Trade(value, clientSector, nextPaymentDate);
             Trades.Add(trade);
         }
-
     }
 
 }

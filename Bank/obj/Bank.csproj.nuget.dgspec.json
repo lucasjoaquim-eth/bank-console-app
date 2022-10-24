@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\LucasJoaquimdaSilva\\source\\repos\\Bank\\Bank\\Bank.csproj": {}
+    "C:\\Users\\LucasJoaquimdaSilva\\source\\repos\\bank-console-app\\Bank\\Bank.csproj": {}
   },
   "projects": {
-    "C:\\Users\\LucasJoaquimdaSilva\\source\\repos\\Bank\\Bank.Domain\\Bank.Domain.csproj": {
+    "C:\\Users\\LucasJoaquimdaSilva\\source\\repos\\bank-console-app\\Bank.Domain\\Bank.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\LucasJoaquimdaSilva\\source\\repos\\Bank\\Bank.Domain\\Bank.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\LucasJoaquimdaSilva\\source\\repos\\bank-console-app\\Bank.Domain\\Bank.Domain.csproj",
         "projectName": "Bank.Domain",
-        "projectPath": "C:\\Users\\LucasJoaquimdaSilva\\source\\repos\\Bank\\Bank.Domain\\Bank.Domain.csproj",
+        "projectPath": "C:\\Users\\LucasJoaquimdaSilva\\source\\repos\\bank-console-app\\Bank.Domain\\Bank.Domain.csproj",
         "packagesPath": "C:\\Users\\LucasJoaquimdaSilva\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\LucasJoaquimdaSilva\\source\\repos\\Bank\\Bank.Domain\\obj\\",
+        "outputPath": "C:\\Users\\LucasJoaquimdaSilva\\source\\repos\\bank-console-app\\Bank.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -60,14 +60,14 @@
         }
       }
     },
-    "C:\\Users\\LucasJoaquimdaSilva\\source\\repos\\Bank\\Bank\\Bank.csproj": {
+    "C:\\Users\\LucasJoaquimdaSilva\\source\\repos\\bank-console-app\\Bank\\Bank.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\LucasJoaquimdaSilva\\source\\repos\\Bank\\Bank\\Bank.csproj",
+        "projectUniqueName": "C:\\Users\\LucasJoaquimdaSilva\\source\\repos\\bank-console-app\\Bank\\Bank.csproj",
         "projectName": "Bank",
-        "projectPath": "C:\\Users\\LucasJoaquimdaSilva\\source\\repos\\Bank\\Bank\\Bank.csproj",
+        "projectPath": "C:\\Users\\LucasJoaquimdaSilva\\source\\repos\\bank-console-app\\Bank\\Bank.csproj",
         "packagesPath": "C:\\Users\\LucasJoaquimdaSilva\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\LucasJoaquimdaSilva\\source\\repos\\Bank\\Bank\\obj\\",
+        "outputPath": "C:\\Users\\LucasJoaquimdaSilva\\source\\repos\\bank-console-app\\Bank\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -86,8 +86,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\LucasJoaquimdaSilva\\source\\repos\\Bank\\Bank.Domain\\Bank.Domain.csproj": {
-                "projectPath": "C:\\Users\\LucasJoaquimdaSilva\\source\\repos\\Bank\\Bank.Domain\\Bank.Domain.csproj"
+              "C:\\Users\\LucasJoaquimdaSilva\\source\\repos\\bank-console-app\\Bank.Domain\\Bank.Domain.csproj": {
+                "projectPath": "C:\\Users\\LucasJoaquimdaSilva\\source\\repos\\bank-console-app\\Bank.Domain\\Bank.Domain.csproj"
               }
             }
           }

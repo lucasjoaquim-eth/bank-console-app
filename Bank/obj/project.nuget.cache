@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "KWSK6L1PXcNbyz6rW8ouJ+KcX8yZ/C9Vu/LbyGzFqqRxRMIeT89SRrXO9MIgetTzSJ9f9JZNDpWje2LOFM9VUw==",
+  "dgSpecHash": "Vu0APYVTeXfz2kOB0BFygVGdtxPUNHOL8yQgrTYOKbgvmK1So8m7pHfV6U6K7G4dGLZ0xhSEc2/2MlaA3ZyvBA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\LucasJoaquimdaSilva\\source\\repos\\Bank\\Bank\\Bank.csproj",
+  "projectFilePath": "C:\\Users\\LucasJoaquimdaSilva\\source\\repos\\bank-console-app\\Bank\\Bank.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -6,11 +6,11 @@ public class Program
 {
     public static void Main()
     {
+        CategoriesBusiness categoriesBusiness = new CategoriesBusiness();
+        Trade trade = new Trade();
+
         try
         {
-            CategoriesBusiness categoriesBusiness = new CategoriesBusiness();
-            Trade trade = new Trade();
-
             Console.WriteLine("Reference date(mm/dd/yyyy): ");
             DateTime referenceDate = DateTime.Parse(Console.ReadLine());
 
